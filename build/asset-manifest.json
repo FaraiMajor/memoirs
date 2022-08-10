@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/memoirs_project/static/js/main.89c6b52a.js",
+    "static/media/memories.jpeg": "/memoirs_project/static/media/memories.de41d2233508e621e563.jpeg",
+    "index.html": "/memoirs_project/index.html",
+    "main.89c6b52a.js.map": "/memoirs_project/static/js/main.89c6b52a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.89c6b52a.js"
+  ]
+}
