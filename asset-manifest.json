@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/client/static/js/main.4a35dc0b.js",
-    "static/media/memories.jpeg": "/client/static/media/memories.de41d2233508e621e563.jpeg",
-    "index.html": "/client/index.html",
-    "main.4a35dc0b.js.map": "/client/static/js/main.4a35dc0b.js.map"
+    "main.js": "/memoirs_project/static/js/main.89c6b52a.js",
+    "static/media/memories.jpeg": "/memoirs_project/static/media/memories.de41d2233508e621e563.jpeg",
+    "index.html": "/memoirs_project/index.html",
+    "main.89c6b52a.js.map": "/memoirs_project/static/js/main.89c6b52a.js.map"
   },
   "entrypoints": [
-    "static/js/main.4a35dc0b.js"
+    "static/js/main.89c6b52a.js"
   ]
 }
