@@ -1,10 +1,13 @@
 {
+    "homepage": "http://faraimajor.github.io/server",
     "name": "server",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "type": "module",
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "nodemon index.js"
     },
     "keywords": [],
@@ -17,5 +20,8 @@
         "express": "^4.17.3",
         "mongoose": "^6.2.4",
         "nodemon": "^2.0.15"
+    },
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
     }
 }
