@@ -22,4 +22,4 @@ npm start
 
 Back end was done with MongoDB and deployed to Heroku. You also need to run the backend locally by following the steps in the [backend repo](https://github.com/FaraiMajor/memoirs-backend).
 
-<img src = "https://github/faraimajor/memoirs/src/images/memories.png" width = "650> />
+<img src = "https://github.com/FaraiMajor/memoirs/blob/main/src/images/memories.png" width = "750" />
